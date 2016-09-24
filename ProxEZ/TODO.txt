@@ -1,0 +1,29 @@
+﻿
+- Try catch/logging
+
+-start/stop buttons - pause form
+-improve CSV reading fast on desktop project
+-fix flags with commas
+
+[FEATURES]
+-Export (country?)
+-****True multithreading****
+=LATER=
+-Auto update task - scrape, check, save to file @ certain time
+
+
+[SETTINGS]
+-Blogspot : # pages
+-
+
+
+[DESIGN]
+-Anchor controls
+-pretty up UI
+-ICON
+
+[CREDITS]
+-icons http://www.famfamfam.com
+-geodb
+This product includes GeoLite data created by MaxMind, available from 
+<a href="http://www.maxmind.com">http://www.maxmind.com</a>.
